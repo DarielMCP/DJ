@@ -1,0 +1,56 @@
+.heading{
+    font-size:29px ;
+    width:100% ;
+    margin: 0px;
+    background-image: url(conejo\ con\ audifonos.avif);
+    background-size:15%;
+    background-position: center;
+    color: rgb(0, 0, 0)
+}
+
+   #text{
+    background-color: rgba(127, 255, 212, 0.531);
+   } 
+
+   body{
+    background-size: cover;
+   }
+
+   .div_vel{
+    float:left;
+   }
+
+   .gif{
+    width: 200px;
+    border-radius: 150px;
+   }
+   
+   #vel{
+    font-size: 23px ;
+    margin: 15px ;
+   }
+
+   .div_audio{
+    float:right;
+   }
+
+   .gif2{
+    width: 200px;
+    border-radius: 150px;
+   }
+   
+   #audio{
+    font-size: 23px ;
+    margin: 15px ;
+   }
+
+   .repro{
+     width:150px  ;
+     font-size:30px;
+   }
+
+   canvas{
+    border: 6px solid rgb(255, 0, 4);
+    border-radius: 20px;
+    padding-top: 300px;
+   }
